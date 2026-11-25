@@ -15,9 +15,12 @@ React on the client. Node.js, Express and MongoDB on the server.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**MaxCode**](https://github.com/zeyadhamdyf/MaxCode) | A full programming academy platform. Public site in Arabic and English (RTL/LTR) with courses and course details, student registration with validation, JWT login, user roles, and an admin dashboard for courses, registrations and activity log. | React, Vite, Tailwind, Node.js, Express, MongoDB |
-| [**hotel-management-system**](https://github.com/zeyadhamdyf/hotel-management-system) | Hotel management with a stats dashboard, rooms, guests and bookings (no double booking), front desk check-in and check-out, payments and invoices, housekeeping and maintenance, reports and an activity log. | React, Node.js, Express, MongoDB |
-| [**ecommerce-backend**](https://github.com/zeyadhamdyf/ecommerce-backend) and [**ecommerce-frontend**](https://github.com/zeyadhamdyf/ecommerce-frontend) | E-commerce project split into an API and a client. | JavaScript |
+| [**MaxCode**](https://github.com/zeyadhamdyf/MaxCode) | A bilingual academy platform with a course catalog, student registration, JWT login, roles, and a protected admin dashboard for courses and registrations. | React, Vite, Tailwind, Node.js, Express, MongoDB |
+| [**hotel-management-system**](https://github.com/zeyadhamdyf/hotel-management-system) | A hotel operations platform for rooms, guests, reservations, reception, payments, housekeeping, and reports. | React, Vite, Tailwind, Node.js, Express, MongoDB |
+| [**ecomers-app**](https://github.com/zeyadhamdyf/ecomers-app) | A storefront with a product catalog, cart, phone-confirmed orders, and a protected manager dashboard. | Angular, TypeScript, Node.js, Express, MongoDB |
+| [**BOOK-STORE-API**](https://github.com/zeyadhamdyf/BOOK-STORE-API) | A REST API for managing books, authors, user accounts, and protected book-management operations. | Node.js, Express, MongoDB, JWT, Joi |
+| [**backend-admin-and-editor**](https://github.com/zeyadhamdyf/backend-admin-and-editor) | A server-rendered product management app with admin and editor roles and an approval queue for editor-submitted changes. | Node.js, Express, EJS, MongoDB |
+| [**study-master**](https://github.com/zeyadhamdyf/study-master) | A bilingual study planner with task scheduling, a Pomodoro timer, progress tracking and reminders. | React, JavaScript, CSS |
 
 ## 🛠️ Tech stack
 
